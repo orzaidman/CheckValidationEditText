@@ -19,7 +19,7 @@ Step 2. Add the dependency
 
 
 
-Usage
+#Usage
 ```
 All opthions:
     public enum Type {NUMBERS, MAIL, SMALL_LETTERS, CAPITAL_LETTERS, PHONE_NUMBER_ISRAEL, PHONE_NUMBER, AGE, LETTERS, DATE}
