@@ -20,6 +20,10 @@ Step 2. Add the dependency
 
 
 Usage
+```
+All opthions:
+    public enum Type {NUMBERS, MAIL, SMALL_LETTERS, CAPITAL_LETTERS, PHONE_NUMBER_ISRAEL, PHONE_NUMBER, AGE, LETTERS, DATE}
+
 
 private EditText main_EDIT_name;
 private EditText main_EDIT_phone;
@@ -44,3 +48,5 @@ private Button check;
                     }
                 }
         );
+
+```
